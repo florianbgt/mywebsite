@@ -4,7 +4,7 @@ My website and online resume.
 
 The site has been built using Nuxt.js
 
-Live demo here: https://floriantgbt.com
+Live demo here: https://florianbgt.com
 
 ## Build Setup
 
