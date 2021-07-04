@@ -1,3 +1,7 @@
+#ignore firebase config files
+.firebaserc
+firebase.json
+
 #ignore service worker
 sw.*
 
