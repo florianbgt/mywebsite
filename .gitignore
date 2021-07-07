@@ -1,4 +1,5 @@
 #ignore firebase config files
+.firebase
 .firebaserc
 firebase.json
 

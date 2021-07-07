@@ -25,7 +25,11 @@ export default {
 
   pwa: {
     meta: {
-      theme_color: '#FFFFFC'
+      theme_color: '#FFFFFC',
+    },
+    manifest: {
+      name: 'Florian Bigot | Web Developer',
+      short_name: 'Florian Bigot'
     }
   },
 
