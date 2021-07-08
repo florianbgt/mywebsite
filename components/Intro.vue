@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="text-center">
-            <nuxt-img class="img-thumbnail rounded-circle" src="Florian-Bigot.jpg" alt="Florian Bigot" width="250px" height="100%"/>
+            <nuxt-img class="img-thumbnail rounded-circle" src="Florian-Bigot.jpg" alt="Florian Bigot" width="250px" height="250px"/>
                 <h1>Hello, I am <strong class="text-secondary">Florian Bigot</strong></h1>
             <h2>Web Developer</h2>
         </div>
