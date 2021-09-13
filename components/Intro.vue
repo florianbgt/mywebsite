@@ -53,7 +53,7 @@
                     </td>
                     <td class="pl-2">
                         <big>
-                            <a href="/Resume-FLorian-Bigot.pdf">My PDF resume</a>
+                            <a href="/Resume-Florian-Bigot.pdf">My PDF resume</a>
                         </big>
                     </td>
                 </tr>
