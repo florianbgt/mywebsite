@@ -4,6 +4,14 @@
       About Me
     </h1>
     <div>
+      <p class="text-secondary">
+        <big
+          ><strong>
+            Looking for a career pivot opportunity for January 2022 as a Web
+            Developer or DevOps
+          </strong></big
+        >
+      </p>
       <p>
         <big>
           Mechanical Engineer by training, I use to work for the areospace and
@@ -13,9 +21,9 @@
       </p>
       <p>
         <big>
-          Recently self taught web developer. I like to task automations and
-          developing powefull and responsive web applications to solve everyday
-          problems and boost productivity!
+          More recently self taught web developer (2 years of experience). I
+          like task automations and developing powefull and responsive web
+          applications to solve everyday problems and boost productivity!
         </big>
       </p>
       <p>
@@ -33,7 +41,8 @@
       </p>
       <p>
         <big>
-          I also have a blog where I write about the techs I use.
+          I also have a blog where I write about the techs I use on my free
+          time.
           <strong
             ><a href="https://blog.florianbgt.com/" target="_blank"
               >Check it out!</a

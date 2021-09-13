@@ -47,6 +47,16 @@
                         </big>
                     </td>
                 </tr>
+                <tr>
+                    <td class="text-center">
+                        <fa :icon="['fas', 'file']" style="font-size: 30px"/>
+                    </td>
+                    <td class="pl-2">
+                        <big>
+                            <a href="/Resume-FLorian-Bigot.pdf">My PDF resume</a>
+                        </big>
+                    </td>
+                </tr>
             </tbody>
         </table>
     </div>

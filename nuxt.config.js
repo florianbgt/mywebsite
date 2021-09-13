@@ -76,7 +76,8 @@ export default {
         'faEllipsisV',
         'faPlusCircle',
         'faGripLinesVertical',
-        'faBars'
+        'faBars',
+        'faFile'
       ],
       brands: [
         'faLinkedin',
